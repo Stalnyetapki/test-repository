@@ -1,0 +1,781 @@
+1515246513701	geckodriver	INFO	geckodriver 0.19.1
+1515246513709	geckodriver	INFO	Listening on 127.0.0.1:33397
+1515246514930	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dyakuyu\\AppData\\Local\\Temp\\rust_mozprofile.cTLu6nQy38ug"
+1515246516581	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5400, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515246524038	Marionette	INFO	Listening on port 33402
+1515246525061	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515246525135	Marionette	DEBUG	Register listener.js for window 4294967297
+1515246525169	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515246525855	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515246525855	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515246528544	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515246529204	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/ru/become-sponsor"
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8312, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 5236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9188, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 4956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515246858854	geckodriver	INFO	geckodriver 0.19.1
+1515246858862	geckodriver	INFO	Listening on 127.0.0.1:33619
+1515246859392	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dyakuyu\\AppData\\Local\\Temp\\rust_mozprofile.KwsPGgUMXrVI"
+1515246860282	Marionette	INFO	Enabled via --marionette
+1515246863579	Marionette	INFO	Listening on port 33623
+1515246863622	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515246863684	Marionette	DEBUG	Register listener.js for window 4294967297
+1515246863858	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515246864556	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515246864556	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515246865694	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515246866222	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515246866574	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515246866783	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mhealthcongress.ru/ru/become-sponsor"
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 91: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1515246869394	Marionette	DEBUG	Received DOM event "pagehide" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515246869404	Marionette	DEBUG	Received DOM event "unload" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515246869661	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515246869760	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/ru/become-sponsor"
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 7404, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515246918502	geckodriver	INFO	geckodriver 0.19.1
+1515246918510	geckodriver	INFO	Listening on 127.0.0.1:33724
+1515246919037	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dyakuyu\\AppData\\Local\\Temp\\rust_mozprofile.sTyXVyb6LJdL"
+1515246919915	Marionette	INFO	Enabled via --marionette
+1515246923179	Marionette	INFO	Listening on port 33728
+1515246923426	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515246923493	Marionette	DEBUG	Register listener.js for window 4294967297
+1515246923723	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515246924253	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515246924253	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515246924946	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515246925517	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515246925879	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515246926088	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mhealthcongress.ru/ru/become-sponsor"
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 91: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1515246928548	Marionette	DEBUG	Received DOM event "pagehide" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515246928552	Marionette	DEBUG	Received DOM event "unload" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515246928804	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515246928921	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/ru/become-sponsor"
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 8420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515246968375	geckodriver	INFO	geckodriver 0.19.1
+1515246968383	geckodriver	INFO	Listening on 127.0.0.1:33849
+1515246968911	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dyakuyu\\AppData\\Local\\Temp\\rust_mozprofile.rn0JQpMzeAWU"
+1515246969683	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515246972999	Marionette	INFO	Listening on port 33853
+1515246973158	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515246973220	Marionette	DEBUG	Register listener.js for window 4294967297
+1515246973257	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515246973767	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515246973767	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515246974570	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515246975068	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515246975418	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515246975629	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mhealthcongress.ru/ru/become-sponsor"
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 91: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1515246978071	Marionette	DEBUG	Received DOM event "pagehide" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515246978074	Marionette	DEBUG	Received DOM event "unload" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515246978339	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515246978445	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/ru/become-sponsor"
+[Parent 5064, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7944, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7824, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 7576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515247057469	geckodriver	INFO	geckodriver 0.19.1
+1515247057476	geckodriver	INFO	Listening on 127.0.0.1:34031
+1515247057523	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dyakuyu\\AppData\\Local\\Temp\\rust_mozprofile.IwxuUjqVXsaw"
+1515247058469	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515247061818	Marionette	INFO	Listening on port 34035
+1515247062251	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515247062312	Marionette	DEBUG	Register listener.js for window 4294967297
+1515247062336	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515247062843	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515247062843	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515247063522	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515247064114	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/ru/become-sponsor"
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515247560085	geckodriver	INFO	geckodriver 0.19.1
+1515247560093	geckodriver	INFO	Listening on 127.0.0.1:34178
+1515247560141	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dyakuyu\\AppData\\Local\\Temp\\rust_mozprofile.Rr8cnsUWb0yS"
+1515247562279	Marionette	INFO	Enabled via --marionette
+1515247569302	Marionette	INFO	Listening on port 34182
+1515247569734	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515247572496	Marionette	DEBUG	Register listener.js for window 4294967297
+1515247572538	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515247573839	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515247573839	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515247574585	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515247575110	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515247575503	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515247575713	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mhealthcongress.ru/ru/become-sponsor"
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 91: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1515247578604	Marionette	DEBUG	Received DOM event "pagehide" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515247578608	Marionette	DEBUG	Received DOM event "unload" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515247578862	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515247578964	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/ru/become-sponsor"
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 9200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+c/chrome/common/ipc_channel_win.cc, line 346
+1515247626348	Marionette	INFO	Listening on port 34293
+1515247627435	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515247628310	Marionette	DEBUG	Register listener.js for window 4294967297
+1515247628350	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515247628853	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515247628853	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515247629590	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515247630070	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515247630425	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515247630635	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mhealthcongress.ru/ru/become-sponsor"
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 91: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+1515247632918	Marionette	DEBUG	Received DOM event "pagehide" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515247632921	Marionette	DEBUG	Received DOM event "unload" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515247633191	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515247633287	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/ru/become-sponsor"
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 3820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515247701506	geckodriver	INFO	geckodriver 0.19.1
+1515247701514	geckodriver	INFO	Listening on 127.0.0.1:34410
+1515247702043	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dyakuyu\\AppData\\Local\\Temp\\rust_mozprofile.PrmtKMhtYELm"
+1515247705215	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 4696, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515247709387	Marionette	INFO	Listening on port 34414
+1515247710455	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515247710516	Marionette	DEBUG	Register listener.js for window 4294967297
+1515247710537	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515247711060	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515247711060	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515247711742	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515247712415	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515247717790	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515247718063	Marionette	DEBUG	Received DOM event "pagehide" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515247718064	Marionette	DEBUG	Received DOM event "unload" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515247718244	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1515247718306	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/en/become-sponsor"
+1515247718403	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/en/become-sponsor"
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 7236, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515248089310	geckodriver	INFO	geckodriver 0.19.1
+1515248089317	geckodriver	INFO	Listening on 127.0.0.1:34543
+1515248089848	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dyakuyu\\AppData\\Local\\Temp\\rust_mozprofile.aEeC5ZlWTX9z"
+1515248092864	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515248095981	Marionette	INFO	Listening on port 34547
+1515248096181	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515248096266	Marionette	DEBUG	Register listener.js for window 4294967297
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+1515248127182	geckodriver	INFO	geckodriver 0.19.1
+1515248127190	geckodriver	INFO	Listening on 127.0.0.1:34574
+1515248127722	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dyakuyu\\AppData\\Local\\Temp\\rust_mozprofile.uVssgSL5rGnI"
+1515248128570	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515248132108	Marionette	INFO	Listening on port 34578
+1515248132471	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515248132533	Marionette	DEBUG	Register listener.js for window 4294967297
+1515248132564	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515248133070	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515248133070	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515248133803	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515248134279	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515248136656	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515248137309	Marionette	DEBUG	Received DOM event "pagehide" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515248137313	Marionette	DEBUG	Received DOM event "unload" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515248137570	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/en/become-sponsor"
+1515248137696	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/en/become-sponsor"
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7400, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7400, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 1620, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515248287860	geckodriver	INFO	geckodriver 0.19.1
+1515248287868	geckodriver	INFO	Listening on 127.0.0.1:34688
+1515248288398	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dyakuyu\\AppData\\Local\\Temp\\rust_mozprofile.5HtwGYaocUvV"
+1515248289227	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515248292476	Marionette	INFO	Listening on port 34692
+1515248292638	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515248292709	Marionette	DEBUG	Register listener.js for window 4294967297
+1515248292929	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515248293481	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515248293481	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515248294160	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515248294684	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515248297021	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515248297407	Marionette	DEBUG	Received DOM event "pagehide" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515248297407	Marionette	DEBUG	Received DOM event "unload" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515248297679	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/en/become-sponsor"
+1515248297844	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/en/become-sponsor"
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7248, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7248, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8532, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 7524, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515248391310	geckodriver	INFO	geckodriver 0.19.1
+1515248391317	geckodriver	INFO	Listening on 127.0.0.1:34797
+1515248391847	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dyakuyu\\AppData\\Local\\Temp\\rust_mozprofile.uMwQdaHb6GSi"
+1515248392902	Marionette	INFO	Enabled via --marionette
+1515248396018	Marionette	INFO	Listening on port 34801
+1515248396076	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515248396137	Marionette	DEBUG	Register listener.js for window 4294967297
+1515248396249	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515248396946	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515248396946	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515248397649	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515248398171	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515248400527	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515248400840	Marionette	DEBUG	Received DOM event "pagehide" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515248400843	Marionette	DEBUG	Received DOM event "unload" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515248401101	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/en/become-sponsor"
+1515248401195	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/en/become-sponsor"
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3548, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 2216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+1515248448027	geckodriver	INFO	geckodriver 0.19.1
+1515248448034	geckodriver	INFO	Listening on 127.0.0.1:34902
+1515248448565	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dyakuyu\\AppData\\Local\\Temp\\rust_mozprofile.IQKXYOUfdopR"
+1515248449345	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1764, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515248452718	Marionette	INFO	Listening on port 34906
+1515248452927	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515248452991	Marionette	DEBUG	Register listener.js for window 4294967297
+1515248453016	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515248453600	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515248453600	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515248454825	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515248455276	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/ru/become-sponsor"
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 8684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+1515249368853	geckodriver	INFO	geckodriver 0.19.1
+1515249368861	geckodriver	INFO	Listening on 127.0.0.1:35214
+1515249369391	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dyakuyu\\AppData\\Local\\Temp\\rust_mozprofile.WCyfmQPHOvkQ"
+1515249370924	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515249379602	Marionette	INFO	Listening on port 35218
+1515249380219	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515249380406	Marionette	DEBUG	Register listener.js for window 4294967297
+1515249380473	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515249381290	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515249381290	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515249382072	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515249382600	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/ru/become-sponsor"
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6084, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5724, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8664, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 7196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515249484110	geckodriver	INFO	geckodriver 0.19.1
+1515249484118	geckodriver	INFO	Listening on 127.0.0.1:35330
+1515249484648	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dyakuyu\\AppData\\Local\\Temp\\rust_mozprofile.nsHhLmDT3uiq"
+1515249486433	Marionette	INFO	Enabled via --marionette
+1515249489679	Marionette	INFO	Listening on port 35334
+1515249489856	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515249489919	Marionette	DEBUG	Register listener.js for window 4294967297
+1515249489945	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515249490426	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515249490426	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515249491199	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515249491682	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515249496634	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515249496936	Marionette	DEBUG	Received DOM event "pagehide" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515249496938	Marionette	DEBUG	Received DOM event "unload" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515249497182	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/en/become-sponsor"
+1515249497189	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967302"
+1515249497264	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/en/become-sponsor"
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 4748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+1515249550918	geckodriver	INFO	geckodriver 0.19.1
+1515249550925	geckodriver	INFO	Listening on 127.0.0.1:35444
+1515249551457	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dyakuyu\\AppData\\Local\\Temp\\rust_mozprofile.EsBmXDZeLAac"
+1515249553378	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4796, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515249556765	Marionette	INFO	Listening on port 35448
+1515249557767	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515249557829	Marionette	DEBUG	Register listener.js for window 4294967297
+1515249557851	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515249558346	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515249558347	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515249559174	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515249559656	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515249562688	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515249563036	Marionette	DEBUG	Received DOM event "pagehide" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515249563036	Marionette	DEBUG	Received DOM event "unload" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515249563275	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/en/become-sponsor"
+1515249563372	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/en/become-sponsor"
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8088, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8088, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 5132, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 4848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515250447215	geckodriver	INFO	geckodriver 0.19.1
+1515250447222	geckodriver	INFO	Listening on 127.0.0.1:35723
+1515250447751	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dyakuyu\\AppData\\Local\\Temp\\rust_mozprofile.8ymmJNdEFgwN"
+1515250449663	Marionette	INFO	Enabled via --marionette
+1515250453723	Marionette	INFO	Listening on port 35727
+1515250454062	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515250454132	Marionette	DEBUG	Register listener.js for window 4294967297
+1515250454180	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515250454782	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515250454782	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515250455440	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515250455926	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515250458964	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515250459291	Marionette	DEBUG	Received DOM event "pagehide" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515250459291	Marionette	DEBUG	Received DOM event "unload" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515250459526	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/en/become-sponsor"
+1515250459634	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/en/become-sponsor"
+1515250462185	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mhealthcongress.ru/en/become-sponsor"
+1515250462256	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1515250462431	Marionette	DEBUG	Received DOM event "pagehide" for "https://mhealthcongress.ru/en/become-sponsor"
+1515250462431	Marionette	DEBUG	Received DOM event "unload" for "https://mhealthcongress.ru/en/become-sponsor"
+1515250462664	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/ru/media-accreditation"
+1515250462746	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/ru/media-accreditation"
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8240, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 1484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515250534231	geckodriver	INFO	geckodriver 0.19.1
+1515250534238	geckodriver	INFO	Listening on 127.0.0.1:35855
+1515250534767	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dyakuyu\\AppData\\Local\\Temp\\rust_mozprofile.CKdek2kGJoSO"
+1515250536668	Marionette	INFO	Enabled via --marionette
+1515250539666	Marionette	INFO	Listening on port 35859
+1515250539996	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515250540057	Marionette	DEBUG	Register listener.js for window 4294967297
+1515250540080	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515250540587	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515250540588	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515250541272	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515250541732	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515250545194	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515250545518	Marionette	DEBUG	Received DOM event "pagehide" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515250545521	Marionette	DEBUG	Received DOM event "unload" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515250545758	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/en/become-sponsor"
+1515250545839	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/en/become-sponsor"
+1515250548845	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mhealthcongress.ru/en/become-sponsor"
+1515250549102	Marionette	DEBUG	Received DOM event "pagehide" for "https://mhealthcongress.ru/en/become-sponsor"
+1515250549102	Marionette	DEBUG	Received DOM event "unload" for "https://mhealthcongress.ru/en/become-sponsor"
+1515250549322	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/ru/media-accreditation"
+1515250549399	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/ru/media-accreditation"
+1515250552240	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mhealthcongress.ru/ru/media-accreditation"
+1515250552493	Marionette	DEBUG	Received DOM event "pagehide" for "https://mhealthcongress.ru/ru/media-accreditation"
+1515250552494	Marionette	DEBUG	Received DOM event "unload" for "https://mhealthcongress.ru/ru/media-accreditation"
+1515250552729	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/en/media-accreditation"
+1515250552811	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/en/media-accreditation"
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 8436, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 8436, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 7924, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1515250678151	geckodriver	INFO	geckodriver 0.19.1
+1515250678158	geckodriver	INFO	Listening on 127.0.0.1:36028
+1515250678694	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dyakuyu\\AppData\\Local\\Temp\\rust_mozprofile.BLSQSorxWzpw"
+1515250680071	Marionette	INFO	Enabled via --marionette
+1515250683075	Marionette	INFO	Listening on port 36032
+1515250683410	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515250683470	Marionette	DEBUG	Register listener.js for window 4294967297
+1515250683493	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515250684021	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515250684022	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515250684729	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515250685181	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515250688373	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515250688637	Marionette	DEBUG	Received DOM event "pagehide" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515250688637	Marionette	DEBUG	Received DOM event "unload" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515250688871	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/en/become-sponsor"
+1515250688947	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/en/become-sponsor"
+1515250691469	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mhealthcongress.ru/en/become-sponsor"
+1515250691473	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1515250691728	Marionette	DEBUG	Received DOM event "pagehide" for "https://mhealthcongress.ru/en/become-sponsor"
+1515250691728	Marionette	DEBUG	Received DOM event "unload" for "https://mhealthcongress.ru/en/become-sponsor"
+1515250691957	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/ru/media-accreditation"
+1515250692034	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/ru/media-accreditation"
+1515250694457	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mhealthcongress.ru/ru/media-accreditation"
+1515250694523	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1515250694709	Marionette	DEBUG	Received DOM event "pagehide" for "https://mhealthcongress.ru/ru/media-accreditation"
+1515250694710	Marionette	DEBUG	Received DOM event "unload" for "https://mhealthcongress.ru/ru/media-accreditation"
+1515250694946	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/en/media-accreditation"
+1515250695026	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/en/media-accreditation"
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 3908, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 7336, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+	Received DOM event "unload" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515252223207	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/en/become-sponsor"
+1515252223286	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/en/become-sponsor"
+1515252225818	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mhealthcongress.ru/en/become-sponsor"
+1515252225823	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1515252226084	Marionette	DEBUG	Received DOM event "pagehide" for "https://mhealthcongress.ru/en/become-sponsor"
+1515252226084	Marionette	DEBUG	Received DOM event "unload" for "https://mhealthcongress.ru/en/become-sponsor"
+1515252226323	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/ru/media-accreditation"
+1515252226410	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/ru/media-accreditation"
+1515252228798	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mhealthcongress.ru/ru/media-accreditation"
+1515252229059	Marionette	DEBUG	Received DOM event "pagehide" for "https://mhealthcongress.ru/ru/media-accreditation"
+1515252229059	Marionette	DEBUG	Received DOM event "unload" for "https://mhealthcongress.ru/ru/media-accreditation"
+1515252229304	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/en/media-accreditation"
+1515252229389	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/en/media-accreditation"
+1515252231822	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mhealthcongress.ru/en/media-accreditation"
+1515252231839	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1515252232050	Marionette	DEBUG	Received DOM event "pagehide" for "https://mhealthcongress.ru/en/media-accreditation"
+1515252232051	Marionette	DEBUG	Received DOM event "unload" for "https://mhealthcongress.ru/en/media-accreditation"
+1515252232285	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/en/media-accreditation"
+1515252232370	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/en/media-accreditation"
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+1515252290800	geckodriver	INFO	geckodriver 0.19.1
+1515252290808	geckodriver	INFO	Listening on 127.0.0.1:36643
+1515252291339	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dyakuyu\\AppData\\Local\\Temp\\rust_mozprofile.F6t1kT0fWAxU"
+1515252293101	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515252296350	Marionette	INFO	Listening on port 36647
+1515252296554	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515252296617	Marionette	DEBUG	Register listener.js for window 4294967297
+1515252296650	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515252297275	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515252297276	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515252297964	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515252298445	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515252301450	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515252301739	Marionette	DEBUG	Received DOM event "pagehide" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515252301739	Marionette	DEBUG	Received DOM event "unload" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515252301977	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/en/become-sponsor"
+1515252302073	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/en/become-sponsor"
+1515252305005	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mhealthcongress.ru/en/become-sponsor"
+1515252305263	Marionette	DEBUG	Received DOM event "pagehide" for "https://mhealthcongress.ru/en/become-sponsor"
+1515252305264	Marionette	DEBUG	Received DOM event "unload" for "https://mhealthcongress.ru/en/become-sponsor"
+1515252305489	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/ru/media-accreditation"
+1515252305568	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/ru/media-accreditation"
+1515252308374	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mhealthcongress.ru/ru/media-accreditation"
+1515252308672	Marionette	DEBUG	Received DOM event "pagehide" for "https://mhealthcongress.ru/ru/media-accreditation"
+1515252308673	Marionette	DEBUG	Received DOM event "unload" for "https://mhealthcongress.ru/ru/media-accreditation"
+1515252308904	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/en/media-accreditation"
+1515252308985	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/en/media-accreditation"
+1515252311366	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mhealthcongress.ru/en/media-accreditation"
+1515252311369	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967311"
+1515252311647	Marionette	DEBUG	Received DOM event "pagehide" for "https://mhealthcongress.ru/en/media-accreditation"
+1515252311647	Marionette	DEBUG	Received DOM event "unload" for "https://mhealthcongress.ru/en/media-accreditation"
+1515252311894	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/ru/become-speaker"
+1515252311976	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/ru/become-speaker"
+1515252315466	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mhealthcongress.ru/ru/become-speaker"
+1515252315754	Marionette	DEBUG	Received DOM event "pagehide" for "https://mhealthcongress.ru/ru/become-speaker"
+1515252315754	Marionette	DEBUG	Received DOM event "unload" for "https://mhealthcongress.ru/ru/become-speaker"
+1515252315996	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/en/become-speaker"
+1515252316093	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/en/become-speaker"
+1515252319197	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mhealthcongress.ru/en/become-speaker"
+1515252319462	Marionette	DEBUG	Received DOM event "pagehide" for "https://mhealthcongress.ru/en/become-speaker"
+1515252319463	Marionette	DEBUG	Received DOM event "unload" for "https://mhealthcongress.ru/en/become-speaker"
+1515252319690	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/ru/become-info-partner"
+1515252319767	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/ru/become-info-partner"
+1515252322593	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mhealthcongress.ru/ru/become-info-partner"
+1515252322836	Marionette	DEBUG	Received DOM event "pagehide" for "https://mhealthcongress.ru/ru/become-info-partner"
+1515252322837	Marionette	DEBUG	Received DOM event "unload" for "https://mhealthcongress.ru/ru/become-info-partner"
+1515252323076	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/en/become-info-partner"
+1515252323160	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/en/become-info-partner"
+1515252326006	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mhealthcongress.ru/en/become-info-partner"
+1515252326355	Marionette	DEBUG	Received DOM event "pagehide" for "https://mhealthcongress.ru/en/become-info-partner"
+1515252326356	Marionette	DEBUG	Received DOM event "unload" for "https://mhealthcongress.ru/en/become-info-partner"
+1515252326799	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/ru"
+1515252327922	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/ru"
+1515252330949	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mhealthcongress.ru/ru"
+1515252331265	Marionette	DEBUG	Received DOM event "pagehide" for "https://mhealthcongress.ru/ru"
+1515252331265	Marionette	DEBUG	Received DOM event "unload" for "https://mhealthcongress.ru/ru"
+1515252331515	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/ru"
+1515252332181	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/ru"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 8484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+1515252401779	geckodriver	INFO	geckodriver 0.19.1
+1515252401787	geckodriver	INFO	Listening on 127.0.0.1:36965
+1515252402318	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\dyakuyu\\AppData\\Local\\Temp\\rust_mozprofile.7iv4yzIcuHY4"
+1515252404485	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1515252407947	Marionette	INFO	Listening on port 36969
+1515252408632	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515252408694	Marionette	DEBUG	Register listener.js for window 4294967297
+1515252408717	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515252409558	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515252409559	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515252410248	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515252410772	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515252414054	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515252414366	Marionette	DEBUG	Received DOM event "pagehide" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515252414367	Marionette	DEBUG	Received DOM event "unload" for "https://mhealthcongress.ru/ru/become-sponsor"
+1515252414605	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/en/become-sponsor"
+1515252414693	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/en/become-sponsor"
+1515252417208	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mhealthcongress.ru/en/become-sponsor"
+1515252417211	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967303"
+1515252417482	Marionette	DEBUG	Received DOM event "pagehide" for "https://mhealthcongress.ru/en/become-sponsor"
+1515252417483	Marionette	DEBUG	Received DOM event "unload" for "https://mhealthcongress.ru/en/become-sponsor"
+1515252417708	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/ru/media-accreditation"
+1515252417794	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/ru/media-accreditation"
+1515252420735	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mhealthcongress.ru/ru/media-accreditation"
+1515252420981	Marionette	DEBUG	Received DOM event "pagehide" for "https://mhealthcongress.ru/ru/media-accreditation"
+1515252420981	Marionette	DEBUG	Received DOM event "unload" for "https://mhealthcongress.ru/ru/media-accreditation"
+1515252421219	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/en/media-accreditation"
+1515252421304	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/en/media-accreditation"
+1515252423737	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mhealthcongress.ru/en/media-accreditation"
+1515252423993	Marionette	DEBUG	Received DOM event "pagehide" for "https://mhealthcongress.ru/en/media-accreditation"
+1515252423993	Marionette	DEBUG	Received DOM event "unload" for "https://mhealthcongress.ru/en/media-accreditation"
+1515252424227	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/ru/become-speaker"
+1515252424306	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/ru/become-speaker"
+1515252426853	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mhealthcongress.ru/ru/become-speaker"
+1515252427090	Marionette	DEBUG	Received DOM event "pagehide" for "https://mhealthcongress.ru/ru/become-speaker"
+1515252427091	Marionette	DEBUG	Received DOM event "unload" for "https://mhealthcongress.ru/ru/become-speaker"
+1515252427330	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/en/become-speaker"
+1515252427408	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/en/become-speaker"
+1515252430286	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mhealthcongress.ru/en/become-speaker"
+1515252430517	Marionette	DEBUG	Received DOM event "pagehide" for "https://mhealthcongress.ru/en/become-speaker"
+1515252430518	Marionette	DEBUG	Received DOM event "unload" for "https://mhealthcongress.ru/en/become-speaker"
+1515252430756	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/ru/become-info-partner"
+1515252430838	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/ru/become-info-partner"
+1515252433210	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mhealthcongress.ru/ru/become-info-partner"
+1515252433479	Marionette	DEBUG	Received DOM event "pagehide" for "https://mhealthcongress.ru/ru/become-info-partner"
+1515252433479	Marionette	DEBUG	Received DOM event "unload" for "https://mhealthcongress.ru/ru/become-info-partner"
+1515252433711	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/en/become-info-partner"
+1515252433789	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/en/become-info-partner"
+1515252436095	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mhealthcongress.ru/en/become-info-partner"
+1515252436424	Marionette	DEBUG	Received DOM event "pagehide" for "https://mhealthcongress.ru/en/become-info-partner"
+1515252436424	Marionette	DEBUG	Received DOM event "unload" for "https://mhealthcongress.ru/en/become-info-partner"
+1515252436768	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/ru"
+1515252439505	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/ru"
+1515252442390	Marionette	DEBUG	Received DOM event "beforeunload" for "https://mhealthcongress.ru/ru"
+1515252442683	Marionette	DEBUG	Received DOM event "pagehide" for "https://mhealthcongress.ru/ru"
+1515252442683	Marionette	DEBUG	Received DOM event "unload" for "https://mhealthcongress.ru/ru"
+1515252442940	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://mhealthcongress.ru/en"
+1515252443579	Marionette	DEBUG	Received DOM event "pageshow" for "https://mhealthcongress.ru/en"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PImageBridge::Msg_Update Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 1044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\dyakuyu\AppData\Local\openvr\openvrpaths.vrpath

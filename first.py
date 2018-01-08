@@ -44,10 +44,6 @@ class innotechForm():
 
 
 
-test = innotechForm()
-innotechForm.checkMail("atsmiletest@mail.ru", "43726642a")
-
-
 
 
 
